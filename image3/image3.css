@@ -1,0 +1,28 @@
+
+a {
+    color: orange;
+    text-decoration:underline;
+}
+
+li a {
+    color: rgb(236, 0, 4);
+  
+    
+}
+
+ li {
+    
+    margin: 10px 0;
+    font-size: 18px;
+   
+}
+
+
+ span ,strong {
+    color: rgb(27, 24, 205);
+}
+
+
+
+
+
